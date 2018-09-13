@@ -14,3 +14,4 @@ db.events.save( { userid: "d", ts: ISODate('2011-11-04 15:37:00'), length: 65 } 
 
 
 * https://docs.mongodb.com/ecosystem/use-cases/hierarchical-aggregation/
+* https://docs.mongodb.com/manual/tutorial/perform-incremental-map-reduce/
