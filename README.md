@@ -11,3 +11,6 @@ db.events.save( { userid: "b", ts: ISODate('2011-11-04 13:14:00'), length: 120 }
 db.events.save( { userid: "c", ts: ISODate('2011-11-04 17:00:00'), length: 130 } );
 db.events.save( { userid: "d", ts: ISODate('2011-11-04 15:37:00'), length: 65 } );
 ```
+
+
+* https://docs.mongodb.com/ecosystem/use-cases/hierarchical-aggregation/
